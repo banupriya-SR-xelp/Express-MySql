@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subash-v/learn-express.git"
+    "url": "git+https://github.com/banupriya-SR-xelp/Express-MySql.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/subash-v/learn-express/issues"
+    "url": "https://github.com/banupriya-SR-xelp/Express-MySql/issues"
   },
-  "homepage": "https://github.com/subash-v/learn-express#readme",
+  "homepage": "https://github.com/banupriya-SR-xelp/Express-MySql#readme",
   "dependencies": {
     "express": "^4.16.4",
     "joi": "^13.1.0",
