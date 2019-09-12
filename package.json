@@ -1,5 +1,5 @@
 {
-  "name": "Express-MySql",
+  "name": "express-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/banupriya-SR-xelp/Express-MySql.git"
+    "url": "git+https://github.com/banupriya-SR-xelp/express-mysql.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/banupriya-SR-xelp/Express-MySql/issues"
+    "url": "https://github.com/banupriya-SR-xelp/express-mysql/issues"
   },
-  "homepage": "https://github.com/banupriya-SR-xelp/Express-MySql#readme",
+  "homepage": "https://github.com/banupriya-SR-xelp/express-mysql#readme",
   "dependencies": {
     "express": "^4.16.4",
     "joi": "^13.1.0",
